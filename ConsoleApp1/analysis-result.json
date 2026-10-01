@@ -1,0 +1,211 @@
+{
+  "File": "zeichnung.jpg",
+  "ImageWidth": 522,
+  "ImageHeight": 383,
+  "AllText": [
+    "Laseranschnitt",
+    "2 \u00D7 16",
+    "sachtsebe",
+    "_ 20.00",
+    "65.00 \u002B0,20",
+    "R5.00",
+    "24.00",
+    "50.00",
+    "Gravur Artikelnummer",
+    "XXX",
+    "60.00",
+    "Kunde:",
+    "Musterwerke Gmbh",
+    "Artikelnummer:",
+    "1234A",
+    "Bemerkung:",
+    "HOF",
+    "01.01.2020",
+    "5 mm",
+    "Feuerverzinkt",
+    "geraithat vent",
+    "Cbemloche:",
+    "38101,18 mm)",
+    "HOCH Hatpe",
+    "Anderung",
+    "1",
+    "Worston:",
+    "2",
+    "1.4301",
+    "Biegema\u00DFe",
+    "Gewinde",
+    "Senkungen",
+    "Sicht-/Folienseite",
+    "Laseranschnitt",
+    "Gravur",
+    "Projektionsmethode"
+  ],
+  "Features": [
+    {
+      "Type": "Radius",
+      "RawText": "R5.00",
+      "PrimaryValue": 5,
+      "SecondaryValue": null,
+      "Unit": "mm",
+      "Tolerance": null,
+      "Confidence": 0.8180000185966492,
+      "X": 172,
+      "Y": 95.75
+    },
+    {
+      "Type": "L\u00E4ngenma\u00DF",
+      "RawText": "24.00",
+      "PrimaryValue": 24,
+      "SecondaryValue": null,
+      "Unit": "mm",
+      "Tolerance": null,
+      "Confidence": 0.296999990940094,
+      "X": 127,
+      "Y": 126
+    },
+    {
+      "Type": "L\u00E4ngenma\u00DF",
+      "RawText": "50.00",
+      "PrimaryValue": 50,
+      "SecondaryValue": null,
+      "Unit": "mm",
+      "Tolerance": null,
+      "Confidence": 0.7480000257492065,
+      "X": 111.5,
+      "Y": 136.75
+    },
+    {
+      "Type": "L\u00E4ngenma\u00DF",
+      "RawText": "60.00",
+      "PrimaryValue": 60,
+      "SecondaryValue": null,
+      "Unit": "mm",
+      "Tolerance": null,
+      "Confidence": 0.6119999885559082,
+      "X": 57,
+      "Y": 215
+    }
+  ],
+  "TitleBlockCandidates": [
+    {
+      "Text": "Kunde:",
+      "Confidence": 0.5839999914169312,
+      "CenterX": 254,
+      "CenterY": 279.75
+    },
+    {
+      "Text": "Artikelnummer:",
+      "Confidence": 0.2549999952316284,
+      "CenterX": 391,
+      "CenterY": 280
+    },
+    {
+      "Text": "1234A",
+      "Confidence": 0.7570000290870667,
+      "CenterX": 449.5,
+      "CenterY": 283.25
+    },
+    {
+      "Text": "Musterwerke Gmbh",
+      "Confidence": 0.5414999723434448,
+      "CenterX": 307,
+      "CenterY": 284
+    },
+    {
+      "Text": "Bemerkung:",
+      "Confidence": 0.42100000381469727,
+      "CenterX": 363,
+      "CenterY": 297.75
+    },
+    {
+      "Text": "5 mm",
+      "Confidence": 0.8205000162124634,
+      "CenterX": 492.5,
+      "CenterY": 303.75
+    },
+    {
+      "Text": "01.01.2020",
+      "Confidence": 0.8820000290870667,
+      "CenterX": 318,
+      "CenterY": 306
+    },
+    {
+      "Text": "Feuerverzinkt",
+      "Confidence": 0.9430000185966492,
+      "CenterX": 267.5,
+      "CenterY": 315
+    },
+    {
+      "Text": "geraithat vent",
+      "Confidence": 0.4869999885559082,
+      "CenterX": 317.5,
+      "CenterY": 316.5
+    },
+    {
+      "Text": "Cbemloche:",
+      "Confidence": 0.5659999847412109,
+      "CenterX": 441.5,
+      "CenterY": 318.5
+    },
+    {
+      "Text": "38101,18 mm)",
+      "Confidence": 0.5354999899864197,
+      "CenterX": 492.5,
+      "CenterY": 326
+    },
+    {
+      "Text": "Anderung",
+      "Confidence": 0.6230000257492065,
+      "CenterX": 274.5,
+      "CenterY": 336.25
+    },
+    {
+      "Text": "Worston:",
+      "Confidence": 0.4580000042915344,
+      "CenterX": 440,
+      "CenterY": 341
+    },
+    {
+      "Text": "1",
+      "Confidence": 0.968999981880188,
+      "CenterX": 251.25,
+      "CenterY": 345
+    },
+    {
+      "Text": "1.4301",
+      "Confidence": 0.5640000104904175,
+      "CenterX": 492,
+      "CenterY": 349
+    },
+    {
+      "Text": "2",
+      "Confidence": 0.7480000257492065,
+      "CenterX": 250.75,
+      "CenterY": 354.75
+    },
+    {
+      "Text": "Sicht-/Folienseite",
+      "Confidence": 0.9200000166893005,
+      "CenterX": 241,
+      "CenterY": 370.5
+    },
+    {
+      "Text": "Projektionsmethode",
+      "Confidence": 0.9610000252723694,
+      "CenterX": 473,
+      "CenterY": 370.5
+    },
+    {
+      "Text": "Laseranschnitt",
+      "Confidence": 0.984000027179718,
+      "CenterX": 331.5,
+      "CenterY": 371
+    },
+    {
+      "Text": "Gravur",
+      "Confidence": 0.9909999966621399,
+      "CenterX": 398,
+      "CenterY": 371
+    }
+  ]
+}
